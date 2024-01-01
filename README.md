@@ -1,0 +1,1 @@
+# golang-minimal-image-hello-word
